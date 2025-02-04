@@ -1,0 +1,11 @@
+2025-02-01 10:01:15 WARNING  Low disk space on server.
+2025-02-01 10:02:30 ERROR  Database connection failed.
+2025-02-01 10:05:00 ERROR  Timeout occurred while connecting to API.
+2025-02-01 10:07:22 DEBUG  Cache refreshed successfully.
+2025-02-01 10:09:14 WARNING  High memory usage detected.
+2025-02-01 10:12:30 ERROR  File not found: /var/logs/missing.log
+2025-02-01 10:18:50 ERROR  Authentication failed for user 'guest'.
+Summary
+BUG: 1 occurrences
+ERROR: 4 occurrences
+WARNING: 2 occurrences

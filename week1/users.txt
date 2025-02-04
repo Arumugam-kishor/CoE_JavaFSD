@@ -1,0 +1,2 @@
+User [name=abc, email=abc@gmail.com]
+User [name=xyz, email=xyz@yahoo.com]
