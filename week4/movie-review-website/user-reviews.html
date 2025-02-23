@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Reviews</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Movie Review Website</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="search-results.html">Search</a>
+            <a href="user-reviews.html">Reviews</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="reviews">
+            <h2>User Reviews</h2>
+            <form id="review-form">
+                <input type="text" id="movie-title" placeholder="Movie Title" required>
+                <textarea id="review-text" placeholder="Your Review" required></textarea>
+                <button type="submit">Submit Review</button>
+            </form>
+            <ul id="reviews-list"></ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Movie Review Website</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
